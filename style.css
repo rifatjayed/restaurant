@@ -25,11 +25,17 @@ nav li a{
     color: #3d2514;
     margin-left: 50px;
 }
+.nav-bg{
+    background-image: url(img/bg.png);
+    height: 136px;
+     padding: 33px 50px 0 60px;
+}
+
 .burger{
     color:#3d2514;
     font-family: 'Bebas Neue', cursive;
-    font-size: 24px;
-    font-weight: 600;
+    font-size: 36px;
+    font-weight: 700;
 }
 .nav-link:hover{
     color: #3d2514;
@@ -206,6 +212,7 @@ nav li a{
    
 }
 .rifat{
+    margin-top: 200px;
     margin-bottom: 200px;
     box-shadow: 10px 10px 10px lightgrey;
 }
@@ -260,7 +267,7 @@ nav li a{
    
 }
  .form-control{
-    color: #3d3d3d;
+    color: #6c757d;
     height: 65px;
     font-size: 21px;
     font-family: 'Bebas Neue',sans-serif;
